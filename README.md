@@ -10,4 +10,6 @@
 <p>for more watch the video ... </p>
 
 <video src="https://github.com/Yeab-Ad/YouTube-UI-UX/blob/master/Youtube%20Full%20preview.mp4"></video>
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+https://user-images.githubusercontent.com/67347926/178429854-21df1685-b625-4a2b-a16e-0f46f393ab94.mp4
+
